@@ -97,8 +97,8 @@ def generate_image(prompt, filename, params=None, no_borders=True):
     # Default settings with standard size for virtual tarot cards (2.75 x 4.75 inches at 300 DPI)
     # Using composition guidance to ensure room for borders and prevent cut-offs
     payload = {
-        "prompt": f"{prompt}, centered composition, complete scene, full body shot, nothing cropped out, with margin space around edges",
-        "negative_prompt": "deformed, ugly, disfigured, low quality, blurry, border, frame, text, watermark, signature, cut off, cropped, edge of frame, margin too small",
+        "prompt": f"{prompt}, centered composition, complete scene, full body shot, nothing cropped out, with margin space around edges, highly detailed",
+        "negative_prompt": "deformed, ugly, disfigured, low quality, blurry, border, frame, text, watermark, signature, cut off, cropped, edge of frame, margin too small, bad anatomy, bad hands, extra fingers, missing fingers, extra limbs, missing limbs, floating limbs, disconnected limbs, malformed hands, long neck, mutated, mutation, poorly drawn face, poorly drawn hands, distorted, amateur, out of frame, bad proportions, gross proportions, cloned face, weird colors, bad shadows, grainy, jpeg artifacts, duplicate, error, duplicate artifacts, airbrushed, cartoon, 3d render",
         "steps": 30,
         "cfg_scale": 7.5,  # Slightly higher for better prompt adherence
         "width": 800,  # Slightly smaller than final size to allow for borders

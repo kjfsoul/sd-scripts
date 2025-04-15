@@ -1,34 +1,47 @@
-# Tarot Deck Style Analysis
-
-## Common Art Styles
-- fantasy art
-- official art
-- sots art
-- art nouveau
-
-## Common Descriptive Phrases
-- storybook illustration
-- painting   man
-- fantasy art
-- aaron jasinski
-- ultrafine detailed
-
-## Common Descriptive Words
-- painting
-- fantasy
-- storybook
-- illustration
-- sitting
-- rabbit
-- chair
-- background
-- front
-- detailed
-
-## Detected Artists
-- Keos Masons
-- Edgar Ainsworth
-- Cedric Seaut
-
-## Suggested Deck Style Prompt
-fantasy art, official art, sots art, art nouveau, storybook illustration, painting   man, fantasy art, aaron jasinski, ultrafine detailed, painting, fantasy, storybook, illustration, sitting, rabbit, chair, background, front, detailed, in the style of Keos Masons, Edgar Ainsworth, Cedric Seaut
+# Deck Style Analysis 
+## Analyzed Prompts 
+ 
+- emperor_01: 
+a tarot card with a man sitting on a chair with a goat in front of him and a star above him, Aaron Jasinski, tarot card, an ultrafine detailed painting, fantasy art 
+- emperor_02: 
+a painting of a man sitting on a chair with a goat in front of him and a sky background, Christophe Vacher, epic fantasy character art, an ultrafine detailed painting, fantasy art 
+- emperor_03: 
+a painting of a person sitting on a throne with a rabbit on it's head and a golden crown on their head, Anato Finnstark, official art, a character portrait, fantasy art 
+- emperor_04: 
+a painting of a man in a red outfit sitting in a chair with a golden crown on his head, Cedric Seaut (Keos Masons), official art, a detailed painting, sots art 
+- emperor_05: 
+a tarot card with a man in a red suit and crown on it, sitting in a chair, Alexander V. Kuprin, regal, a character portrait, sots art 
+- empress_01: 
+a woman in a green dress sitting on a chair with a rabbit in her lap and a golden heart, Alfonse Mucha, pre - raphaelite, an art deco painting, art nouveau 
+- fool_01: 
+a tarot card with a woman holding a wand and a rabbit on it's back, and a castle in the background, Daniel Merriam, tarot card, a storybook illustration, fantasy art 
+- fool_02: 
+a man standing on a rock with a rabbit in front of him and the words the fool written in the middle, Aaron Jasinski, storybook illustration, a storybook illustration, magical realism 
+- fool_03: 
+a painting of a man standing next to a rabbit on a cliff with a book in his hand and a book in his hand, Barclay Shaw, high fantasy, a storybook illustration, magical realism 
+- hierophant_01: 
+a painting of a man sitting on a throne with a cross and a woman standing next to him,, Edward Otho Cresap Ord, II, storybook illustration, a storybook illustration, fantasy art 
+- lovers_01: 
+a painting of a couple in love under a heart shaped sun with the words, the lovers, written below, Aaron Jasinski, official art, an oil on canvas painting, neo-romanticism 
+- magician_01: 
+a tarot card with a man holding a wand and a rabbit on it's lap, and a tree with flowers, Brad Kunkle, tarot card, an ultrafine detailed painting, magic realism 
+- magician_02: 
+a painting of a man with a rabbit and a magnifying glass in front of him, holding a magnifying glass, Edgar Ainsworth, tarot card, a storybook illustration, magic realism 
+- strength_01: 
+a man and a lion are depicted in this painting of a man and a lion in a frame with a background of clouds, Daniel Merriam, michael kaluta, a storybook illustration, fantasy art 
+- strength_02: 
+a painting of a man holding a lion in his arms with a lion in the background with a sky background, Daniel Merriam, loftis, poster art, art nouveau 
+- thefool_v2: 
+The Fool tarot card, fantasy art, mystical, art nouveau, storybook illustration, ultrafine detailed, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut, variation 2 
+- thehighpriestess_v1: 
+The High Priestess tarot card, fantasy art, mystical, art nouveau, storybook illustration, ultrafine detailed, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut 
+- thehighpriestess_v2: 
+The High Priestess tarot card, fantasy art, mystical, art nouveau, storybook illustration, ultrafine detailed, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut, variation 2 
+- themagician_v1: 
+The Magician tarot card, fantasy art, mystical, art nouveau, storybook illustration, ultrafine detailed, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut 
+- themagician_v2: 
+The Magician tarot card, fantasy art, mystical, art nouveau, storybook illustration, ultrafine detailed, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut, variation 2 
+ 
+## Suggested Deck Style Prompt 
+ 
+fantasy art, mystical, detailed, vibrant colors, art nouveau style 

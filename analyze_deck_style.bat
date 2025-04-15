@@ -1,4 +1,5 @@
-@echo off
+analyze_deck_style.bat
+echo off
 echo Tarot Deck Style Analyzer
 echo =======================
 echo.
@@ -32,7 +33,7 @@ if not exist "reference\prompts\*.txt" (
 )
 
 echo Press any key to analyze your deck style...
-pause > nul
+pause > nulj
 
 REM Run the analyzer script
 python analyze_deck_style.py
