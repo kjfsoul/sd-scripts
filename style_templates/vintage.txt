@@ -1,0 +1,19 @@
+# Vintage Tarot Style Template
+
+## Art Style Foundation
+vintage illustration, art deco, retro, antique aesthetic, classic tarot
+
+## Color & Lighting
+muted colors, sepia tones, aged paper texture, soft lighting
+
+## Key Elements
+classical symbolism, traditional iconography, ornate frames, vintage patterns
+
+## Detail Level
+elegant linework, woodcut style, stippled shading, hand-drawn quality
+
+## Artist Influence
+in the style of Pamela Colman Smith, Arthur Rackham, Alphonse Mucha
+
+## Complete Prompt
+vintage illustration, art deco, retro, antique aesthetic, classic tarot, muted colors, sepia tones, aged paper texture, soft lighting, classical symbolism, traditional iconography, ornate frames, vintage patterns, elegant linework, woodcut style, stippled shading, hand-drawn quality, in the style of Pamela Colman Smith, Arthur Rackham, Alphonse Mucha

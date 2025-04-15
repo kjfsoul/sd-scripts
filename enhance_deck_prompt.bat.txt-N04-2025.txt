@@ -1,0 +1,8 @@
+enhance_deck_prompt.bat
+
+
+final AUTOMTC1111 PROMPT:
+"dark fantasy art, mystical, art nouveau, teal and cyan color palette, moonlight ambiance, ethereal glow, mystical throne, intricate costume details, glowing stone arch, magical symbols, storybook illustration with rabbits, ultrafine detailed, elegant composition, realistic digital painting, high detail, fantasy RPG aesthetic, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut."
+
+
+1:40 AM 4/15/2025 -NP

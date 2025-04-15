@@ -1,0 +1,23 @@
+# Enhanced Tarot Deck Style Prompt
+
+## Comprehensive Version
+dark fantasy art, mystical, art nouveau, teal and cyan color palette, moonlight ambiance, ethereal glow, mystical throne, intricate costume details, glowing stone arch, magical symbols, storybook illustration with rabbits, ultrafine detailed, elegant composition, realistic digital painting, high detail, fantasy RPG aesthetic, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut
+
+## Organized Version
+### Art Style Foundation
+dark fantasy art, mystical, art nouveau, realistic digital painting, fantasy RPG aesthetic
+
+### Color & Lighting
+teal and cyan color palette, moonlight ambiance, ethereal glow
+
+### Key Elements
+mystical throne, glowing stone arch, magical symbols, rabbits
+
+### Detail Level
+intricate costume details, ultrafine detailed, high detail, elegant composition
+
+### Artist Influence
+in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut
+
+## Notes
+This enhanced prompt combines your original style preferences with the new keywords to create a rich, cohesive aesthetic for your tarot deck. The teal and cyan color palette with moonlight ambiance will give the cards a distinctive look, while the mystical thrones, stone arches, and magical symbols will add consistent thematic elements across the deck. The high level of detail and realistic digital painting approach will ensure the cards have depth and visual interest.

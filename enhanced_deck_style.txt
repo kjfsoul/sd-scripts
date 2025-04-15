@@ -1,0 +1,33 @@
+# Enhanced Tarot Deck Style Prompt
+
+## Original Prompt
+fantasy art, official art, sots art, art nouveau, storybook illustration, painting   man, fantasy art, aaron jasinski, ultrafine detailed, painting, fantasy, storybook, illustration, sitting, rabbit, chair, background, front, detailed, in the style of Keos Masons, Edgar Ainsworth, Cedric Seaut
+
+## Enhanced Prompt
+fantasy art, official art, sots art, art nouveau, storybook illustration, painting   man, aaron jasinski, ultrafine detailed, front, sitting, rabbit, chair, background, in the style of in the style of Keos Masons, Edgar Ainsworth, Cedric Seaut
+
+## Categories
+
+### Art Styles
+- fantasy art
+- official art
+- sots art
+- art nouveau
+- storybook illustration
+- painting   man
+
+### Descriptors
+- aaron jasinski
+- ultrafine detailed
+- front
+
+### Subjects
+- sitting
+- rabbit
+- chair
+- background
+
+### Artists
+- in the style of Keos Masons
+- Edgar Ainsworth
+- Cedric Seaut

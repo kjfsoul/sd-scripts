@@ -1,0 +1,19 @@
+# Cyberpunk Tarot Style Template
+
+## Art Style Foundation
+cyberpunk, futuristic, digital, neon, high-tech
+
+## Color & Lighting
+neon colors, electric blue, magenta, high contrast, digital glow
+
+## Key Elements
+cybernetic enhancements, holographic displays, urban dystopia, digital interfaces
+
+## Detail Level
+hyper-detailed, complex, intricate circuitry, technical precision
+
+## Artist Influence
+in the style of Syd Mead, Simon Stålenhag, Josan Gonzalez
+
+## Complete Prompt
+cyberpunk, futuristic, digital, neon, high-tech, neon colors, electric blue, magenta, high contrast, digital glow, cybernetic enhancements, holographic displays, urban dystopia, digital interfaces, hyper-detailed, complex, intricate circuitry, technical precision, in the style of Syd Mead, Simon Stålenhag, Josan Gonzalez

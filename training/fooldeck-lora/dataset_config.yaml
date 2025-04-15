@@ -1,0 +1,7 @@
+﻿subsets:
+  - image_dir: train
+    num_repeats: 10
+    resolution: 512
+    shuffle_caption: false
+    keep_tokens: 0
+    caption_extension: .txt

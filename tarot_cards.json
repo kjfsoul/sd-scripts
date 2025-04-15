@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "name": "The Fool",
+      "numeral": "0",
+      "variations": [
+        "fooldeck style, The Fool tarot card, pastel art nouveau, ethereal, fantasy soft lighting, a youthful figure in flowing garments standing at the edge of a cliff, white dog companion, dreamy landscape, decorative border, \"0\" at top, \"THE FOOL\" at bottom, elegant sans serif font",
+        "fooldeck style, The Fool tarot card, pastel art nouveau, ethereal, fantasy soft lighting, androgynous figure with flower crown carrying a white rose and knapsack, playful white dog, mountain background, decorative art nouveau border, \"0\" at top, \"THE FOOL\" at bottom, elegant sans serif font"
+      ]
+    },
+    {
+      "name": "The High Priestess",
+      "numeral": "II",
+      "variations": [
+        "fooldeck style, The High Priestess tarot card, pastel art nouveau, ethereal, fantasy soft lighting, serene woman seated between two pillars, crescent moon at her feet, veil behind her, scroll in hand, water elements, decorative border, \"II\" at top, \"THE HIGH PRIESTESS\" at bottom, elegant sans serif font",
+        "fooldeck style, The High Priestess tarot card, pastel art nouveau, ethereal, fantasy soft lighting, mysterious feminine figure with lunar crown, blue robes, pomegranates and dates, sacred geometry, cosmic background, decorative art nouveau border, \"II\" at top, \"THE HIGH PRIESTESS\" at bottom, elegant sans serif font"
+      ]
+    },
+    {
+      "name": "The Star",
+      "numeral": "XVII",
+      "variations": [
+        "fooldeck style, The Star tarot card, pastel art nouveau, ethereal, fantasy soft lighting, nude figure kneeling by water pouring from two vessels, one foot on land, one in water, seven stars above, ibis bird, decorative border, \"XVII\" at top, \"THE STAR\" at bottom, elegant sans serif font",
+        "fooldeck style, The Star tarot card, pastel art nouveau, ethereal, fantasy soft lighting, graceful figure under starry night sky, pouring water onto earth and into pond, celestial glow, hope and renewal symbolism, decorative art nouveau border, \"XVII\" at top, \"THE STAR\" at bottom, elegant sans serif font"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Improved Tarot Deck Style Prompt
+
+## Original Prompt
+fantasy art, official art, sots art, art nouveau, storybook illustration, painting man, fantasy art, aaron jasinski, ultrafine detailed, painting, fantasy, storybook, illustration, sitting, rabbit, chair, background, front, detailed, in the style of Keos Masons, Edgar Ainsworth, Cedric Seaut
+
+## Manually Improved Prompt
+fantasy art, art nouveau, storybook illustration, ultrafine detailed, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut
+
+## Expanded Prompt (with subjects)
+fantasy art, art nouveau, storybook illustration with rabbits, ultrafine detailed, elegant composition, mystical atmosphere, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut
+
+## Categories
+
+### Art Styles
+- fantasy art
+- art nouveau
+- storybook illustration
+
+### Descriptors
+- ultrafine detailed
+- elegant composition
+- mystical atmosphere
+
+### Subjects
+- rabbits (recurring theme in your reference images)
+
+### Artists
+- Aaron Jasinski
+- Edgar Ainsworth
+- Cedric Seaut
+
+## Notes
+This improved prompt removes redundancies and organizes the terms in a more coherent way. The "sots art" term was removed as it's unclear what it refers to. The "painting man" was likely a formatting error. The expanded prompt adds some additional descriptive terms that might enhance the cohesiveness of your deck.

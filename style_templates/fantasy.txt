@@ -1,0 +1,19 @@
+# Fantasy Tarot Style Template
+
+## Art Style Foundation
+fantasy art, mystical, magical realism, ethereal, dreamlike
+
+## Color & Lighting
+vibrant colors, magical glow, dramatic lighting, rich shadows
+
+## Key Elements
+mystical creatures, magical symbols, enchanted objects, fantasy landscapes
+
+## Detail Level
+highly detailed, intricate, ornate, meticulous
+
+## Artist Influence
+in the style of Michael Whelan, Julie Bell, Boris Vallejo
+
+## Complete Prompt
+fantasy art, mystical, magical realism, ethereal, dreamlike, vibrant colors, magical glow, dramatic lighting, rich shadows, mystical creatures, magical symbols, enchanted objects, fantasy landscapes, highly detailed, intricate, ornate, meticulous, in the style of Michael Whelan, Julie Bell, Boris Vallejo

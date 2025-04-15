@@ -1,0 +1,31 @@
+# Finalized Tarot Deck Style Prompt
+
+## Simple Version
+fantasy art, mystical, art nouveau, storybook illustration, ultrafine detailed, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut
+
+## Expanded Version
+fantasy art, mystical, art nouveau, storybook illustration with rabbits, ultrafine detailed, elegant composition, mystical atmosphere, in the style of Aaron Jasinski, Edgar Ainsworth, and Cedric Seaut
+
+## Categories
+
+### Art Styles
+- fantasy art
+- art nouveau
+- storybook illustration
+
+### Descriptors
+- mystical
+- ultrafine detailed
+- elegant composition
+- mystical atmosphere
+
+### Subjects
+- rabbits (recurring theme in your reference images)
+
+### Artists
+- Aaron Jasinski
+- Edgar Ainsworth
+- Cedric Seaut
+
+## Notes
+This finalized prompt adds "mystical" as requested to enhance the magical and otherworldly quality of the tarot deck. The prompt is organized to provide a cohesive style across all cards while maintaining the essence of your reference images.

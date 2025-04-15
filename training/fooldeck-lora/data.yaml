@@ -1,0 +1,4 @@
+﻿subsets:
+- image_dir: train
+  num_repeats: 10
+  resolution: 512

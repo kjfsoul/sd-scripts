@@ -1,0 +1,19 @@
+# Minimalist Tarot Style Template
+
+## Art Style Foundation
+minimalist, clean lines, geometric, abstract, modern
+
+## Color & Lighting
+limited color palette, high contrast, bold colors, flat lighting
+
+## Key Elements
+simple symbols, geometric shapes, negative space, essential elements only
+
+## Detail Level
+clean, precise, uncluttered, elegant simplicity
+
+## Artist Influence
+in the style of Piet Mondrian, Saul Bass, Malika Favre
+
+## Complete Prompt
+minimalist, clean lines, geometric, abstract, modern, limited color palette, high contrast, bold colors, flat lighting, simple symbols, geometric shapes, negative space, essential elements only, clean, precise, uncluttered, elegant simplicity, in the style of Piet Mondrian, Saul Bass, Malika Favre

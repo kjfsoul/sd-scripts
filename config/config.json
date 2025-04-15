@@ -1,0 +1,13 @@
+{
+    "api_url": "http://127.0.0.1:7860",
+    "default_params": {
+        "steps": 40,
+        "cfg_scale": 7.5,
+        "width": 512,
+        "height": 768,
+        "sampler_name": "DPM++ 2M Karras",
+        "batch_size": 1,
+        "n_iter": 1
+    },
+    "default_negative_prompt": "deformed, ugly, disfigured, low quality, blurry, nsfw"
+}

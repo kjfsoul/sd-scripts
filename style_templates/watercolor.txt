@@ -1,0 +1,19 @@
+# Watercolor Tarot Style Template
+
+## Art Style Foundation
+watercolor painting, fluid, organic, painterly, impressionistic
+
+## Color & Lighting
+soft colors, color bleeding, translucent layers, natural lighting
+
+## Key Elements
+flowing forms, organic shapes, natural elements, gentle transitions
+
+## Detail Level
+soft edges, textured, loose brushwork, delicate details
+
+## Artist Influence
+in the style of J.M.W. Turner, Yoshitaka Amano, Agnes Cecile
+
+## Complete Prompt
+watercolor painting, fluid, organic, painterly, impressionistic, soft colors, color bleeding, translucent layers, natural lighting, flowing forms, organic shapes, natural elements, gentle transitions, soft edges, textured, loose brushwork, delicate details, in the style of J.M.W. Turner, Yoshitaka Amano, Agnes Cecile

@@ -1,0 +1,4 @@
+Enhance_deck_prompt.bat
+
+Prompt: 
+"Fantasy art, art nouveau, storybook illustration, ultrafine detailed, in the style of Aaron Jasinski, Keos Masons, Edgar Ainsworth, Cedric Seaut

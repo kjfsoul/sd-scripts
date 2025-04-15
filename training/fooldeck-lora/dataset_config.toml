@@ -1,0 +1,6 @@
+﻿general = {}
+
+[[datasets]]
+subsets = [
+  { image_dir = "train", num_repeats = 1, resolution = 512, shuffle_caption = false, keep_tokens = 0, caption_extension = ".txt" }
+]

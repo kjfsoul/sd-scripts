@@ -1,0 +1,34 @@
+# Tarot Deck Style Analysis
+
+## Common Art Styles
+- fantasy art
+- official art
+- sots art
+- art nouveau
+
+## Common Descriptive Phrases
+- storybook illustration
+- painting   man
+- fantasy art
+- aaron jasinski
+- ultrafine detailed
+
+## Common Descriptive Words
+- painting
+- fantasy
+- storybook
+- illustration
+- sitting
+- rabbit
+- chair
+- background
+- front
+- detailed
+
+## Detected Artists
+- Keos Masons
+- Edgar Ainsworth
+- Cedric Seaut
+
+## Suggested Deck Style Prompt
+fantasy art, official art, sots art, art nouveau, storybook illustration, painting   man, fantasy art, aaron jasinski, ultrafine detailed, painting, fantasy, storybook, illustration, sitting, rabbit, chair, background, front, detailed, in the style of Keos Masons, Edgar Ainsworth, Cedric Seaut
